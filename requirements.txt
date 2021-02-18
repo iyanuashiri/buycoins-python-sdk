@@ -1,0 +1,4 @@
+requests==2.25.1
+requests-mock==1.8.0
+gql~=3.0.0a5
+ratelimit~=2.2.1
