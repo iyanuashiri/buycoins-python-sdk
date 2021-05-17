@@ -389,6 +389,3 @@ class API:
 
         params = {'cryptocurrency': cryptocurrency}
         return self.request(query=CREATE_ADDRESS, params=params)
-
-api = API('', '')
-api.create_deposit_account('')
